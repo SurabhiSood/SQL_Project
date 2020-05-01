@@ -1,2 +1,2 @@
-DB_USER = "postgres"
-DB_PASS = "Newjob@2019"
+DB_USER = " "
+DB_PASS = " "
