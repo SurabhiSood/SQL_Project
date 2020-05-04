@@ -34,7 +34,7 @@ Performed Data Engineering and Analysis on employees of the corporation from the
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
 
-## Bonus Analysis- Generated a visualization of the data
+## Visualization of the data
 
 * Created a histogram to visualize the most common salary ranges for employees.
 
